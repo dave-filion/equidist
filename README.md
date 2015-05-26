@@ -10,3 +10,5 @@ Make sure you have node and npm installed. Then:
 ### Running dev server:
 
     webpack-dev-server --content-base build --hot
+    
+Then go to <http://localhost:8080/webpack-dev-server/index.html>
