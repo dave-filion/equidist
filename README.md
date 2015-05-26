@@ -1,9 +1,9 @@
-# EquiDist (working title)
+# equidist
 
-## Install
+### Install
 
-  npm install
+    npm install
 
-## Running dev server:
+### Running dev server:
 
-  webpack-dev-server --content-base build --hot
+    webpack-dev-server --content-base build --hot
